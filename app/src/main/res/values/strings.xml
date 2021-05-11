@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Velino</string>
+    <string name="wait">Please Wait…</string>
+    <string name="move_both">Move layers</string>
+    <string name="zoom_photo">Zoom Paint</string>
+
+</resources>
